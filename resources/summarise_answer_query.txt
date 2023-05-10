@@ -1,0 +1,3 @@
+Provide a brief summary and answer to the query.
+
+Query: {{query}}

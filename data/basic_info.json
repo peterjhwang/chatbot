@@ -1,0 +1,241 @@
+{
+    "location_id": "1811991",
+    "name": "Ziptrek Ecotours",
+    "description": "Ziptrek Ecotours is NZ's #1 Original Zipline tour and offers an exhilarating eco-adventure situated 450m (1500ft) above Queenstown. You'll hang out in magnificent treehouses, breathe pristine mountain air and glide through the treetops on a series of ziplines with spectacular views. Your knowledgeable guides will manage everything technical, while you enjoy a thrilling tour with an environmental focus.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g255122-d1811991-Reviews-Ziptrek_Ecotours-Queenstown_Otago_Region_South_Island.html?m=66827",
+    "address_obj": {
+        "street1": "45 Camp Street",
+        "street2": "",
+        "city": "Queenstown",
+        "country": "New Zealand",
+        "postalcode": "9300",
+        "address_string": "45 Camp Street, Queenstown 9300 New Zealand"
+    },
+    "ancestors": [
+        {
+            "level": "Municipality",
+            "name": "Queenstown",
+            "location_id": "255122"
+        },
+        {
+            "level": "Region",
+            "name": "Otago Region",
+            "location_id": "3692815"
+        },
+        {
+            "level": "Region",
+            "name": "South Island",
+            "location_id": "255116"
+        },
+        {
+            "level": "Country",
+            "name": "New Zealand",
+            "location_id": "255104"
+        }
+    ],
+    "latitude": "-45.03049",
+    "longitude": "168.66023",
+    "timezone": "Pacific/Auckland",
+    "email": "nzinfo@ziptrek.com",
+    "phone": "+64 800 947 873",
+    "website": "http://www.ziptrek.co.nz",
+    "write_review": "https://www.tripadvisor.com/UserReview-g255122-d1811991-Ziptrek_Ecotours-Queenstown_Otago_Region_South_Island.html?m=66827",
+    "ranking_data": {
+        "geo_location_id": "255122",
+        "ranking_string": "#29 of 178 Outdoor Activities in Queenstown",
+        "geo_location_name": "Queenstown",
+        "ranking_out_of": "178",
+        "ranking": "29"
+    },
+    "rating": "5.0",
+    "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+    "num_reviews": "2333",
+    "review_rating_count": {
+        "1": "7",
+        "2": "14",
+        "3": "65",
+        "4": "268",
+        "5": "1979"
+    },
+    "photo_count": "430",
+    "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g255122-d1811991-m66827-Reviews-Ziptrek_Ecotours-Queenstown_Otago_Region_South_Island.html#photos",
+    "hours": {
+        "periods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 7,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 7,
+                    "time": "1800"
+                }
+            }
+        ],
+        "weekday_text": [
+            "Monday: 08:30 - 18:00",
+            "Tuesday: 08:30 - 18:00",
+            "Wednesday: 08:30 - 18:00",
+            "Thursday: 08:30 - 18:00",
+            "Friday: 08:30 - 18:00",
+            "Saturday: 08:30 - 18:00",
+            "Sunday: 08:30 - 18:00"
+        ]
+    },
+    "category": {
+        "name": "attraction",
+        "localized_name": "Attraction"
+    },
+    "subcategory": [
+        {
+            "name": "sightseeing_tours",
+            "localized_name": "Tours"
+        },
+        {
+            "name": "activities",
+            "localized_name": "Activities"
+        },
+        {
+            "name": "outdoor_activities",
+            "localized_name": "Outdoor Activities"
+        }
+    ],
+    "groups": [
+        {
+            "name": "Tours",
+            "localized_name": "Tours",
+            "categories": [
+                {
+                    "name": "Nature & Wildlife Tours",
+                    "localized_name": "Nature & Wildlife Tours"
+                },
+                {
+                    "name": "Sightseeing Tours",
+                    "localized_name": "Sightseeing Tours"
+                },
+                {
+                    "name": "Adrenaline & Extreme Tours",
+                    "localized_name": "Adrenaline & Extreme Tours"
+                },
+                {
+                    "name": "Eco Tours",
+                    "localized_name": "Eco Tours"
+                },
+                {
+                    "name": "Zipline & Aerial Adventure Parks",
+                    "localized_name": "Zipline & Aerial Adventure Parks"
+                }
+            ]
+        },
+        {
+            "name": "Outdoor Activities",
+            "localized_name": "Outdoor Activities",
+            "categories": [
+                {
+                    "name": "Nature & Wildlife Tours",
+                    "localized_name": "Nature & Wildlife Tours"
+                },
+                {
+                    "name": "Adrenaline & Extreme Tours",
+                    "localized_name": "Adrenaline & Extreme Tours"
+                },
+                {
+                    "name": "Eco Tours",
+                    "localized_name": "Eco Tours"
+                },
+                {
+                    "name": "Zipline & Aerial Adventure Parks",
+                    "localized_name": "Zipline & Aerial Adventure Parks"
+                }
+            ]
+        }
+    ],
+    "trip_types": [
+        {
+            "name": "business",
+            "localized_name": "Business",
+            "value": "30"
+        },
+        {
+            "name": "couples",
+            "localized_name": "Couples",
+            "value": "650"
+        },
+        {
+            "name": "solo",
+            "localized_name": "Solo travel",
+            "value": "154"
+        },
+        {
+            "name": "family",
+            "localized_name": "Family",
+            "value": "475"
+        },
+        {
+            "name": "friends",
+            "localized_name": "Friends getaway",
+            "value": "403"
+        }
+    ],
+    "awards": []
+}

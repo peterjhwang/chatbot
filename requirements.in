@@ -1,0 +1,11 @@
+pip-tools
+pylint
+streamlit
+streamlit_chat
+openai
+python-dotenv
+langchain
+duckduckgo-search
+func-timeout
+bs4
+tiktoken
