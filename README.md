@@ -24,3 +24,20 @@ What it will be doing. - Might need backend server to run this.
 
 ## Run
     streamlit run app.py
+
+
+# Pelican static site
+
+## Getting started
+- Pelican[Markdown]
+
+### Prerequisites
+* Start venv
+* Install Pelican[Markdown]
+
+### Generate website
+1. Change to site
+2. Run > pelican /content
+
+### Run Pelican server
+1. pelican --listen
