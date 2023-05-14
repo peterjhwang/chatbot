@@ -21,3 +21,6 @@ What it will be doing. - Might need backend server to run this.
     source venv/bin/activate
     make install
 
+
+## Run
+    streamlit run app.py
