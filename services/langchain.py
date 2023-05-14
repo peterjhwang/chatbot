@@ -26,6 +26,8 @@ agent = initialize_agent(
     tools, chat, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True
 )
 
+system_prompt = open("resources/general_question_prompt.txt", "r").read()
+
 
 def generate_response(message, user_history, generated_history):
     logger.info("Message: " + message)
@@ -33,6 +35,11 @@ def generate_response(message, user_history, generated_history):
     logger.info("Generated message: " + str(generated_history))
 
     # use agent
-    result = agent(message)
+    result = chat(
+        [
+            SystemMessage(content=system_prompt),
+            HumanMessage(content=message),
+        ]
+    )
     logger.info("Result: " + str(result))
-    return result["output"]
+    return result.content
