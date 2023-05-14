@@ -1,6 +1,4 @@
 -r requirements.in
-
-pip-tools
 pytest
 black
 pylint

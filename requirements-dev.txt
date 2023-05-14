@@ -149,9 +149,7 @@ pathspec==0.11.1
 pillow==9.5.0
     # via streamlit
 pip-tools==6.13.0
-    # via
-    #   -r requirements-dev.in
-    #   -r requirements.in
+    # via -r requirements.in
 pkgutil-resolve-name==1.3.10
     # via jsonschema
 platformdirs==3.5.0
@@ -264,8 +262,10 @@ tzdata==2023.3
     #   pytz-deprecation-shim
 tzlocal==4.3
     # via streamlit
-urllib3==2.0.2
-    # via requests
+urllib3==1.26.15
+    # via
+    #   -r requirements.in
+    #   requests
 validators==0.20.0
     # via streamlit
 wheel==0.40.0

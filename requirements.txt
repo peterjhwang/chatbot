@@ -238,8 +238,10 @@ tzdata==2023.3
     #   pytz-deprecation-shim
 tzlocal==4.3
     # via streamlit
-urllib3==2.0.2
-    # via requests
+urllib3==1.26.15
+    # via
+    #   -r requirements.in
+    #   requests
 validators==0.20.0
     # via streamlit
 wheel==0.40.0
